@@ -1,0 +1,15 @@
+#home .textos {
+    width: 80%;
+    background-color: goldenrod;
+    color: black;
+    margin: 0 auto;
+}
+
+#home .textos p {
+    color: black;
+}
+
+
+.textos p {
+    color: brown;
+}

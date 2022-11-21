@@ -1,0 +1,19 @@
+p {
+    color: greenyellow;
+}
+
+div {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+span {
+    color: yellowgreen;
+}
+/* p {
+    font-size: 30px;
+    color: black;
+} */

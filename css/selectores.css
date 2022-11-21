@@ -1,0 +1,7 @@
+@import url('./selector_id.css');
+@import url('./selector_class.css');
+@import url('./selector_etiqueta.css');
+@import url('./selector_descendiente.css');
+@import url('./selector_hijo.css');
+@import url('./selector_adyacente.css');
+@import url('./selector_hermano.css');
