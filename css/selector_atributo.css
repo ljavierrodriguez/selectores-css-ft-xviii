@@ -1,0 +1,32 @@
+a[class]{
+    color: white;
+    background-color: gray;
+}
+
+a[class="link"]{
+    color: violet;
+    background-color: black;
+}
+
+a[class*="link"]{
+    color: burlywood;
+    background-color: black;
+}
+
+a[class$="link"]{
+    color: blue;
+    background-color: black;
+}
+
+a[href^="https"]{
+    color: chocolate;
+    background-color: black;
+}
+
+
+a[class~="link3"]{
+    color: crimson;
+    background-color: black;
+}
+
+

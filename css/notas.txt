@@ -1,0 +1,20 @@
+selector {
+    property: value;
+}
+
+margin, padding, border: (top = t, right = t, bottom = b, left = l)
+
+margin: 20px; -> t r b l
+margin: 20px 20px; -> tb rl
+margin: 20px 20px 20px; -> t rl b
+margin: 20px 20px 20px 20px; -> t r b l
+
+padding: 20px; -> t r b l
+padding: 20px 20px; -> tb rl
+padding: 20px 20px 20px; -> t rl b
+padding: 20px 20px 20px 20px; -> t r b l
+
+
+margin-top, margin-left, margin-bottom, margin-right;
+padding-top, padding-left, padding-bottom, padding-right;
+

@@ -1,0 +1,28 @@
+body {
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.fa-face-smile {
+    color: red;
+}
+
+.boxes {
+    width: 200px;
+    height: 100px;
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    /* margin: 5px; */
+    padding: 10px;
+    /* display: inline-block; */
+    box-sizing: border-box;
+    /* float: left; */
+    /* border: 10px solid blue; */
+}

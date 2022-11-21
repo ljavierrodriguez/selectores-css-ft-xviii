@@ -9,7 +9,13 @@
     color: black;
 }
 
+.textos {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+} 
 
 .textos p {
     color: brown;
+    display: flex;
 }
