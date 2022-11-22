@@ -1,0 +1,49 @@
+/* 
+
+all
+screen
+print
+speech
+
+width
+height
+orientation
+resolution
+
+*/
+
+@media screen and (max-width: 540px){
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+
+@media screen and (min-width: 541px) and (max-width: 720px) and (orientation: landscape){
+    body {
+        background-color: blueviolet;
+        color: white;
+    }
+}
+
+@media screen and (min-width: 541px) and (max-width: 720px) and (orientation: portrait){
+    body {
+        background-color: blueviolet;
+        color: white;
+    }
+}
+
+
+@media print {
+    body {
+        background-color: black;
+        color: green;
+    }
+    .fa-regular {
+        display: none;
+    }
+
+    .fa-heart {
+        display: block;
+    }
+}
